@@ -10,9 +10,10 @@ const swaggerDefinition = {
     description: "API documentation for Xpensea SaaS application",
     contact: {
       name: "Support",
-      email: "support@xpensea.com"
+      email: "support@xpensea.com"  
     }
   },
+  
   servers: [
     {
       url: `http://localhost:${PORT}/api`,
