@@ -113,11 +113,11 @@
  *               email:
  *                 type: string
  *                 format: email
- *                 example: admin@acmecorp.com
+ *                 example: aswin@gmail.com
  *               password:
  *                 type: string
  *                 format: password
- *                 example: securepassword123
+ *                 example: 12345
  *     responses:
  *       200:
  *         description: Successfully logged in
